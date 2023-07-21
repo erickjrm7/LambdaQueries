@@ -1,0 +1,15 @@
+/Users/freddypalacios/DA2(2023)/LambdaQueries/bin/Debug/net7.0/LambdaQueries
+/Users/freddypalacios/DA2(2023)/LambdaQueries/bin/Debug/net7.0/LambdaQueries.deps.json
+/Users/freddypalacios/DA2(2023)/LambdaQueries/bin/Debug/net7.0/LambdaQueries.runtimeconfig.json
+/Users/freddypalacios/DA2(2023)/LambdaQueries/bin/Debug/net7.0/LambdaQueries.dll
+/Users/freddypalacios/DA2(2023)/LambdaQueries/bin/Debug/net7.0/LambdaQueries.pdb
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.csproj.AssemblyReference.cache
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.AssemblyInfoInputs.cache
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.AssemblyInfo.cs
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.csproj.CoreCompileInputs.cache
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.dll
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/refint/LambdaQueries.dll
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.pdb
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/LambdaQueries.genruntimeconfig.cache
+/Users/freddypalacios/DA2(2023)/LambdaQueries/obj/Debug/net7.0/ref/LambdaQueries.dll
